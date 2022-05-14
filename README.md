@@ -2,5 +2,5 @@
 A login-less admin space for Quiz app
 
 - Technology:
-Frontend : ReactJS
-Backend : ExpressJS, NodeJS, MongoDB
+1. Frontend : ReactJS
+2. Backend : ExpressJS, NodeJS, MongoDB
